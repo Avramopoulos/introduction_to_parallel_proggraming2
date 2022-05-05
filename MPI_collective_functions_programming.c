@@ -1,5 +1,5 @@
 /*****************************************************************************************
-  DESCRIPTION:   Συλλογική επικοινωνία programming using MPI (Second asignement in introduction to parallel programming)
+  DESCRIPTION:   MPI collective functions programming using MPI (Second asignement in introduction to parallel programming)
   AUTHOR:        George panagiotis Avramopoulos
   CLASS:         ICE1-5006, ice.uniwa.gr 
   DATE:          16/1/2022
